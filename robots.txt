@@ -1,0 +1,7 @@
+User-agent:*
+Disallow:
+
+User-agent:*
+Disallow:
+
+Sitemap: https://plugin-sass-palette.vuejs.press/sitemap.xml
